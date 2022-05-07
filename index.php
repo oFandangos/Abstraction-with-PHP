@@ -100,8 +100,6 @@
       <button onclick="Mudarestado('abrir')">Abrir/Fechar portas</button>
   </div>
 </div>
-
-
       <style>
         body{
           background-color:rgb(29,29,29);
